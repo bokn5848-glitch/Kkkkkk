@@ -1,0 +1,224 @@
+
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bokn5848-glitch/Gycvytftf/refs/heads/main/Hyu9')))()
+
+local Window = OrionLib:MakeWindow({Name = "banana", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
+
+local Tab1 = Window:MakeTab({
+	Name = "hack hữu ích",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Tab2 = Window:MakeTab({
+	Name = "đồ họa",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Tab3 = Window:MakeTab({
+	Name = "script pvp cdvn",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Tab4 = Window:MakeTab({
+	Name = "hack trò chơi",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Tab5 = Window:MakeTab({
+	Name = "hành động free",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Tab7 = Window:MakeTab({
+	Name = "fixlag+ping+fbs",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Tab6 = Window:MakeTab({
+	Name = "Blox fruits",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab3:AddButton({
+	Name = "pvp cdvn",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/bokn5848-glitch/Bananadepzai0/refs/heads/main/Luan"))()
+end
+})
+
+Tab4:AddButton({
+	Name = "MM2🔪",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/mm2scripthub/TravHub/refs/heads/main/mm2'))()
+end
+})
+
+Tab3:AddButton({
+	Name = "autu fam tiền🤑",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/bokn5848-glitch/Banana0/refs/heads/main/Banana"))()
+end
+})
+
+Tab1:AddButton({
+	Name = "bay",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+    loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")()
+end
+})
+
+Tab3:AddButton({
+	Name = "autu đánh boss👹",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/bokn5848-glitch/Bananahahah/refs/heads/main/Luan"))()
+end
+})
+
+Tab4:AddButton({
+	Name = "script 99 đêm",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/FoxnameHub.lua"))()
+end
+})
+
+Tab4:AddButton({
+	Name = "brookhaven",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Brookhaven-RP-Sander-XY-35845"))()
+end
+})
+
+Tab4:AddButton({
+	Name = "dead rail ",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://getnative.cc/script/loader"))()
+end
+})
+
+Tab4:AddButton({
+	Name = "tháp tát🖐",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/amdzy088/Auto-fire-part-universal-/refs/heads/main/Auto%20fire%20part%20universal"))()
+end
+})
+
+Tab5:AddButton({
+	Name = "hành động free",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/GUIS/Emotes.lua"))()
+end
+})
+
+Tab2:AddButton({
+	Name = "đồ họa đẹp nhất tôi thấy🥹",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Simple-Shader-37434"))()
+end
+})
+
+Tab1:AddButton({
+	Name = "tàn hình👻",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Invisible-FE-19153"))()
+end
+})
+
+Tab1:AddButton({
+	Name = "bất tử👹",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rawbr10/Roblox-Scripts/refs/heads/main/God%20Mode%20Script%20Universal"))()
+end
+})
+
+Tab1:AddButton({
+	Name = "admin",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end
+})
+
+Tab1:AddButton({
+	Name = "dí🤡",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://pastebin.com/raw/SvVYqTh6"))()
+end
+})
+
+
+
+Tab1:AddButton({
+	Name = "ESP👁",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/bokn5848-glitch/ESP/refs/heads/main/ESP")))()
+end
+})
+
+Tab1:AddButton({
+	Name = "hixbox📦",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bokn5848-glitch/Hixbox/refs/heads/main/Hixbox"))()
+end
+})
+
+Tab1:AddButton({
+	Name = "Kill all😎",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bokn5848-glitch/Kill-all/refs/heads/main/Kill%20all"))()
+end
+})
+
+Tab6:AddButton({
+	Name = "zis Roblox",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Zis/refs/heads/main/ZisBVn"))()
+end
+})
+
+Tab6:AddButton({
+	Name = "Gravjty Hub bản pro",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-GravityHub/BloxFruit/refs/heads/main/Main.lua"))()
+end
+})
+
+Tab6:AddButton({
+	Name = "Quantum bản bro",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
+end
+})
+
+Tab7:AddButton({
+	Name = "fixlag+ping+FPS",
+	Callback = function()
+        repeat wait(1) until game:IsLoaded()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/bokn5848-glitch/Fixlag/refs/heads/main/Fixlag0"))(fixlag)
+end
+})
