@@ -208,7 +208,7 @@ end
 })
 
 Tab6:AddButton({
-	Name = "Quantum bản bro",
+	Name = "Quantum bản pro",
 	Callback = function()
         repeat wait(1) until game:IsLoaded()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
